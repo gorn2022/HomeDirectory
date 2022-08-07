@@ -1,5 +1,5 @@
 /**
- * Created by Роман on 07.08.2022.
+ * Created by Роман on 08.08.2022.
  */
 
 var exam1 = {
